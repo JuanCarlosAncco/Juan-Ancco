@@ -54,14 +54,17 @@ La elección de una **regresión lineal** es intencional: se puede explicar, ins
 
 El modelo conceptual (estados, operadores, restricciones y representación visual) está explicado en **[02_Espacio_de_Estados.md](02_Espacio_de_Estados.md)**. La primera implementación del recorrido está en el notebook 03.
 
+
 ## 3. Pipeline de razonamiento, exploración y búsqueda — 5 puntos
 
-**[Abrir 03_Pipeline_Busqueda.ipynb](03_Pipeline_Busqueda.ipynb)**  
+**[Abrir 03_Pipeline_Busqueda.ipynb](https://drive.google.com/file/d/1TjBSXNqNzxECnbrdYzDbLp0tTwYgThtQ/view?usp=sharing)**
+
 De una ficha incompleta a una ficha válida: validación, generación de estados, recorrido BFS, búsqueda de una referencia cercana por edad y visualización de resultados.
 
 ## 4. Pipeline de regresión y visualización — 5 puntos
 
-**[Abrir 04_Pipeline_Regresion.ipynb]([04_Pipeline_Regresion.ipynb](https://drive.google.com/file/d/1NmdMlFDdci2ZF_DrP-6GzO93GQj4iP4g/view?usp=sharing))**  
+**[Abrir 04_Pipeline_Regresion.ipynb](https://drive.google.com/file/d/1NmdMlFDdci2ZF_DrP-6GzO93GQj4iP4g/view?usp=sharing)**
+
 Datos simulados, preparación de variables, separación de entrenamiento y prueba, regresión lineal, comparación con un modelo base y gráficos.
 
 ### Cómo ejecutarlo en Google Colab
