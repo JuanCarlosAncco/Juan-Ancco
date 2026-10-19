@@ -61,7 +61,7 @@ De una ficha incompleta a una ficha válida: validación, generación de estados
 
 ## 4. Pipeline de regresión y visualización — 5 puntos
 
-**[Abrir 04_Pipeline_Regresion.ipynb](04_Pipeline_Regresion.ipynb)**  
+**[Abrir 04_Pipeline_Regresion.ipynb]([04_Pipeline_Regresion.ipynb](https://drive.google.com/file/d/1NmdMlFDdci2ZF_DrP-6GzO93GQj4iP4g/view?usp=sharing))**  
 Datos simulados, preparación de variables, separación de entrenamiento y prueba, regresión lineal, comparación con un modelo base y gráficos.
 
 ### Cómo ejecutarlo en Google Colab
